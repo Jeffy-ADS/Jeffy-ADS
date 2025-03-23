@@ -24,9 +24,7 @@ Transformar ideias em soluções digitais de impacto, unindo tecnologia, criativ
 
 ## 📫 Entre em Contato
 
-- Email: [seu-email@gmail.com](mailto:seu-email@gmail.com)  
-- LinkedIn: [seu-perfil-linkedin](https://linkedin.com/in/seu-perfil)  
-- GitHub: [seu-usuario](https://github.com/seu-usuario)  
+- LinkedIn: [seu-perfil-linkedin](https://linkedin.com/in/)    
 
 ---
 
